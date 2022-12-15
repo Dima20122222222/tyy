@@ -1,5 +1,5 @@
 .title {
-    color: rgb(246, 255, 0);
+    color: green;
     text-align: center;
 }
 
@@ -15,7 +15,7 @@
     height: 200px;
     text-align: center;
     font-size: 50px;
-    background-color: rgb(255, 30, 30);
+    background-color: dodgerblue;
     color: gold;
     font-weight: 700;
     font-style: italic;
@@ -29,7 +29,7 @@
     display: flex;
 }
 
-.photo {
+.PHOTO {
     margin-right: 100px;
     width: 500px;
     border: 5px solid chocolate;
